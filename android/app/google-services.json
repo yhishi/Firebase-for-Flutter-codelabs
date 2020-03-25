@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043438219924",
+    "firebase_url": "https://fir-for-flutter-codelabs-4c930.firebaseio.com",
+    "project_id": "fir-for-flutter-codelabs-4c930",
+    "storage_bucket": "fir-for-flutter-codelabs-4c930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043438219924:android:3487f3c4abff03e875ba81",
+        "android_client_info": {
+          "package_name": "com.example.firebaseforfluttercodelabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043438219924-7la28rtq67m2h3s1g6s52vt66ft9fbuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7x-gpuTkuCIVzO2jm4WfYIwrMNnA8sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043438219924-7la28rtq67m2h3s1g6s52vt66ft9fbuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043438219924-7vqb1chslg2k3n8qc5suptp4tl4hto0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseforfluttercodelabs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1043438219924-7vqb1chslg2k3n8qc5suptp4tl4hto0u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1043438219924-7vqb1chslg2k3n8qc5suptp4tl4hto0u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdNg47syCTQeumwja5e1hp2m8w5ahw7o8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043438219924</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseforfluttercodelabs</string>
+	<key>PROJECT_ID</key>
+	<string>fir-for-flutter-codelabs-4c930</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-for-flutter-codelabs-4c930.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043438219924:ios:5cfa0074da12a4ec75ba81</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-for-flutter-codelabs-4c930.firebaseio.com</string>
+</dict>
+</plist>
